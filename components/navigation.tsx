@@ -14,7 +14,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center gap-3">
             <Image src="/images/ite-ora-logo.png" alt="Ite Ora" width={120} height={40} className="h-10 w-auto" />
-            <div className="hidden sm:block">
+            <div className="block">
               <span className="text-[#000035] font-serif text-lg font-semibold leading-tight">
                 Ite Ora's
                 <br />
